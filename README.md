@@ -1,6 +1,6 @@
-# Bonjour, je suis Tugay ESER
+# À propos de moi
 
-Je suis diplômé en statistiques de l’Université de Marmara en Turquie et j’ai récemment suivi le DU Data Analyst – Informatique et statistiques pour la décision à l’Université de Montpellier.
+Bonjour, je suis Tugay ESER. Je suis diplômé en statistiques de l’Université de Marmara en Turquie et j’ai récemment suivi le DU Data Analyst – Informatique et statistiques pour la décision à l’Université de Montpellier.
 
 Je m’intéresse à l’analyse de données, au nettoyage de données, à la visualisation, aux analyses statistiques et à la transformation des données en informations utiles pour la prise de décision.
 
@@ -40,9 +40,9 @@ Je développe progressivement ce profil avec des projets liés à :
 
 ---
 
-# Hi, I’m Tugay ESER
+# About me
 
-I am a Statistics graduate from Marmara University in Türkiye and I recently completed a Data Analyst program at the University of Montpellier in France.
+Hi, I’m Tugay ESER. I am a Statistics graduate from Marmara University in Türkiye and I recently completed a Data Analyst program at the University of Montpellier in France.
 
 I am interested in data analysis, data cleaning, visualization, statistical analysis, and transforming data into actionable insights for decision-making.
 
